@@ -45,22 +45,20 @@ Backend-Tutorial/
 
 ## Installation and Setup
 
-1. Clone the repository:
-   `git clone https://github.com/shubhivajpayee-debug/Backend-Tutorial.git`
 
-2. Navigate into the project:
+1. Navigate into the project:
    `cd Backend-Tutorial`
 
-3. Install dependencies:
+2. Install dependencies:
    `npm install`
 
-4. Create a `.env` file and configure:
+3. Create a `.env` file and configure:
    ```env
    MONGO_URI=your_mongodb_connection_string
    PORT=5000
    ```
 
-5. Start the server:
+4. Start the server:
    `node server.js`
 
 ## API Testing
@@ -68,4 +66,4 @@ All CRUD endpoints were tested using Postman.
 
 ## Author
 ## Author
-Student Backend Development Project
+Student Backend Development Projectgit add .
